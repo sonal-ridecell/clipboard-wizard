@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "omg": "oh my god!",
+    "brb": "be right back",
+    "lol": "laughing out loud",
+    "afaik": "as far as I know",
+    "iirc": "if I remember correctly"
+  },
+  "check_interval": 0.5
+}
